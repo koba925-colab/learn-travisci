@@ -13,7 +13,7 @@ def pogepoge(a):
 
 
 def mogemoge(a):
-    return a + 4
+    return a + 5
 
 
 if __name__ == "__main__":  # pragma: no cover

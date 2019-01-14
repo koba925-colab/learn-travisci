@@ -13,7 +13,7 @@ class TestHoge(unittest.TestCase):
         self.assertEqual(pogepoge(3), 6)
 
     def test_mogemoge(self):
-        self.assertEqual(mogemoge(3), 7)
+        self.assertEqual(mogemoge(3), 8)
 
 
 if __name__ == "__main__":
